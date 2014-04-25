@@ -1,7 +1,7 @@
 MarkDown书写规范
 ========
 
-轻量级标记语言--Markdown
+轻量级标记语言 Markdown
 
 Markdown还有一系列衍生版本，用于扩展Markdown的功能（如表格、脚注、内嵌HTML等等），这些功能原初的Markdown尚不具备，同时，也能让Markdown转换成更多的格式，例如LaTeX，Docbook。Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如Pandoc；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在换行等细节上也有改动。
 
@@ -18,7 +18,7 @@ Markdown还有一系列衍生版本，用于扩展Markdown的功能（如表格�
 [PDF版本](https://github.com/hoosin/MarkDown/blob/master/MarkDown%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80.pdf?raw=true)
 
 
-#*全局规范*
+#全局规范
 
 
 MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
@@ -26,7 +26,7 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 普通文本换行，使用行末尾```2空格```触发
 
 
-#*语法*
+#语法
 
 ##标题
 
