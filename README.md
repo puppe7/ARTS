@@ -1,7 +1,12 @@
 MarkDown书写规范
 ========
 
-轻量级标记语言--MarkDown
+轻量级标记语言--Markdown
+
+Markdown还有一系列衍生版本，用于扩展Markdown的功能（如表格、脚注、内嵌HTML等等），这些功能原初的Markdown尚不具备，同时，也能让Markdown转换成更多的格式，例如LaTeX，Docbook。Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如Pandoc；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在换行等细节上也有改动。
+
+注：本文档符合自身规范，可视作demo，参看源码
+
 
 
 #语法参见
