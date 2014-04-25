@@ -5,7 +5,12 @@ MarkDown
 
 
 
-(语法参见[官方语法说明](http://daringfireball.net/projects/markdown/syntax) )
+##语法参见
+
+[官方语法说明](http://daringfireball.net/projects/markdown/syntax)
+
+
+[PDF版本](https://github.com/hoosin/MarkDown/blob/master/MarkDown%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80.pdf?raw=true)
 
 ##标题
 
@@ -149,9 +154,9 @@ I get 10 times more traffic from [Google] than from
 ##图片
 
 ---
-![github logo](/assets/help/set-up-git-27bd5975b24e994bc994ec1cf5c82ff9.gif)
+![github logo](https://raw.githubusercontent.com/hoosin/PPT/master/github/logo.png)
 
-![github logo](/assets/help/set-up-git-27bd5975b24e994bc994ec1cf5c82ff9.gif "Optional title")
+![github logo](https://raw.githubusercontent.com/hoosin/PPT/master/github/logo.png "Optional title")
 
 ![github logo][logo]
 [logo]: /assets/help/set-up-git-27bd5975b24e994bc994ec1cf5c82ff9.gif  "Optional title attribute"
