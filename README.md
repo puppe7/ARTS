@@ -199,6 +199,14 @@ I get 10 times more traffic from [Google] than from
 ![github logo][logo]
 [logo]: https://raw.githubusercontent.com/hoosin/PPT/master/github/logo.png  "Optional title attribute"
 
+##表格
+
+ID名称|命名|ID名称  |命名
+:---------------|:---------------|:---------------|:---------------
+头部|header|主体| main
+脚部|footer|容器|wrapper
+侧栏|side_bar|栏目|column
+布局|layout|||
 
 ##分隔线
 
@@ -216,7 +224,7 @@ I get 10 times more traffic from [Google] than from
 
 ---
 ###**自动链接**
-<http://example.com/>  diff http://example.com/
+<http://github.com/>  diff http://github.com/
 
 
 
