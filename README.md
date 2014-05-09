@@ -34,6 +34,13 @@ Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法
 上面是HTML语法，下面则是Markdown语法，最终产生的格式一模一样。
 
 
+#全局规范
+
+MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
+
+普通文本换行，使用行末尾```2空格```触发
+
+
 ##发展
 
 越来越多的软件和服务支持Markdown语法，应该说，Mac上大多数的写作软件都支持它。在线工具同样有很多，本篇博客就是通过Draftin在线写成后直接发布到tumblr，如果你的博客基于Wordpress或是blogger，它同样支持发布。
@@ -50,14 +57,8 @@ Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法
 [PDF版本](https://github.com/hoosin/MarkDown/blob/master/MarkDown%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80.pdf?raw=true)
 
 
-#全局规范
 
-
-MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
-
-普通文本换行，使用行末尾```2空格```触发
-
-----------
+ 
 #Markdown 免费编辑器
 
 
@@ -99,7 +100,10 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 
 **注：本文档符合自身规范，可视作demo，参看源码，欢迎大家 ```fork``` 补充完善。**
 
-#DEMO
+
+
+
+#DEMO Start
 ================================
 
 
