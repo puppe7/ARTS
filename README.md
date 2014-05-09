@@ -40,22 +40,6 @@ Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法
 
 不仅仅是写博客，一切文章都可以用Markdown语法来写，比如说你想将一个标题加大字体，只需要在相应文字前面加上一个#或是在它的下一行加上一些等号即可，还有比这更简单的调整格式方式吗？
 
-值得一提的Markdown在线工具有以下这些（欢迎补充）：
-
-* [Draftin](https://draftin.com/)：功能强大，可发布到各种博客平台。
-
-* [Dillinger](http://dillinger.io/)：实时预览，支持直接保存到Dropbox或是Github。
-
-* [Markable](http://markable.in/)：实时预览，支持发布到Tumblr。
-
-* [Oak](http://oakoutliner.com/)：不支持发布到任何地方，供在线随手记录东西使用。
-
-* [简书](http://jianshu.io/)：国产软件，看上去不错。
-
-**注：本文档符合自身规范，可视作demo，参看源码，欢迎大家 ```fork``` 补充完善。**
-
-
-
 
 #语法参见
 
@@ -73,6 +57,47 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 
 普通文本换行，使用行末尾```2空格```触发
 
+----------
+#Markdown 免费编辑器
+
+
+##Windows 平台
+
+* [MarkdownPad](http://markdownpad.com/)
+* [MarkPad](http://code52.org/DownmarkerWPF/)
+
+##Linux 平台
+
+* [ReText](http://sourceforge.net/p/retext/home/ReText/)
+
+##Mac 平台
+
+* [Mou](http://mouapp.com/)
+
+##在线编辑器
+
+* [Draftin](https://draftin.com/)：功能强大，可发布到各种博客平台。
+
+* [Dillinger](http://dillinger.io/)：实时预览，支持直接保存到Dropbox或是Github。
+
+* [Markable](http://markable.in/)：实时预览，支持发布到Tumblr。
+
+* [Oak](http://oakoutliner.com/)：不支持发布到任何地方，供在线随手记录东西使用。
+
+* [简书](http://jianshu.io/)：国产软件，看上去不错。
+
+##浏览器插件
+
+* [MaDe](https://chrome.google.com/webstore/detail/oknndfeeopgpibecfjljjfanledpbkog) (Chrome)
+
+##高级应用
+
+* [Sublime Text 2](http://www.sublimetext.com/2) + [MarkdownEditing](http://ttscoff.github.com/MarkdownEditing/) / [教程](http://lucifr.com/2012/07/12/markdownediting-for-sublime-text-2/)
+
+\*** 如有更好的 Markdown 免费编辑器推荐，请到[这里反馈](https://github.com/hoosin/MarkDown/issues)，谢谢！
+
+
+**注：本文档符合自身规范，可视作demo，参看源码，欢迎大家 ```fork``` 补充完善。**
 
 #DEMO
 ================================
