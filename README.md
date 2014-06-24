@@ -23,7 +23,7 @@ Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法
 
 不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。不需要额外标注这是 HTML 或是 Markdown；只要直接加标签就可以了。
 
-要制约的只有一些 HTML 区块元素――比如 ``` <div> 、<table>、<pre>、<p> ```等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。Markdown 的生成器有足够智能，不会在 HTML 区块标签外加上不必要的 ```<p>``` 标签。
+要制约的只有一些 HTML 区块元素――比如 ` <div>` 、`<table>`、`<pre>`、`<p>`等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。Markdown 的生成器有足够智能，不会在 HTML 区块标签外加上不必要的 ```<p>``` 标签。
 
 ###Editorially上有一个简单的比较：
 
@@ -43,7 +43,7 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 
 ##发展
 
-越来越多的软件和服务支持Markdown语法，应该说，Mac上大多数的写作软件都支持它。在线工具同样有很多，本篇博客就是通过Draftin在线写成后直接发布到tumblr，如果你的博客基于Wordpress或是blogger，它同样支持发布。
+越来越多的软件和服务支持Markdown语法，应该说，Mac上大多数的写作软件都支持它。在线工具同样有很多，如果你的博客基于Wordpress或是blogger，它同样支持发布。
 
 不仅仅是写博客，一切文章都可以用Markdown语法来写，比如说你想将一个标题加大字体，只需要在相应文字前面加上一个#或是在它的下一行加上一些等号即可，还有比这更简单的调整格式方式吗？
 
@@ -65,7 +65,9 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 ##Windows 平台
 
 * [MarkdownPad](http://markdownpad.com/)
+
 * [MarkPad](http://code52.org/DownmarkerWPF/)
+
 * [mdcharm](http://www.mdcharm.com/)
 
 ##Linux 平台
@@ -75,6 +77,8 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 ##Mac 平台
 
 * [Mou](http://mouapp.com/)
+
+* [DayOne](http://dayoneapp.com/)
 
 ##在线编辑器
 
