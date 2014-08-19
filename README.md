@@ -98,7 +98,9 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 
 ##高级应用
 
-* [Sublime Text 2](http://www.sublimetext.com/2) + [MarkdownEditing](http://ttscoff.github.com/MarkdownEditing/) / [教程](http://lucifr.com/2012/07/12/markdownediting-for-sublime-text-2/)
+* [Sublime Text 2](http://www.sublimetext.com/2)
+* [MarkdownEditing](http://ttscoff.github.com/MarkdownEditing/) / [教程](http://lucifr.com/2012/07/12/markdownediting-for-sublime-text-2/)
+* [atom](https://atom.io/)
 
 \*** 如有更好的 Markdown 免费编辑器推荐，请到[这里反馈](https://github.com/hoosin/MarkDown/issues)，谢谢！
 
